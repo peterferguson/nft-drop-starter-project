@@ -1,0 +1,14 @@
+{
+  "name": "White Roundtable Icon",
+  "symbol": "",
+  "image": "roundtable-white.png",
+  "properties": {
+    "files": [{ "uri": "roundtable-white.png", "type": "image/png" }],
+    "creators": [
+      {
+        "address": "CB44VdAyCz4cCr3ARSuaQ1G8BiuToemYykcy113RL7Su",
+        "share": 100
+      }
+    ]
+  }
+}

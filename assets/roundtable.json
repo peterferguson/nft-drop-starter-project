@@ -1,0 +1,14 @@
+{
+  "name": "Roundtable Icon",
+  "symbol": "",
+  "image": "roundtable.png",
+  "properties": {
+    "files": [{ "uri": "roundtable.png", "type": "image/png" }],
+    "creators": [
+      {
+        "address": "CB44VdAyCz4cCr3ARSuaQ1G8BiuToemYykcy113RL7Su",
+        "share": 100
+      }
+    ]
+  }
+}

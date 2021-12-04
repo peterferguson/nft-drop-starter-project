@@ -1,0 +1,14 @@
+{
+  "name": "Black Roundtable Icon",
+  "symbol": "",
+  "image": "roundtable-black.png",
+  "properties": {
+    "files": [{ "uri": "roundtable-black.png", "type": "image/png" }],
+    "creators": [
+      {
+        "address": "CB44VdAyCz4cCr3ARSuaQ1G8BiuToemYykcy113RL7Su",
+        "share": 100
+      }
+    ]
+  }
+}
